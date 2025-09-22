@@ -8,3 +8,5 @@ I'll start things off with my favourite game!
 
 * Bloodborne
 * Portal 2
+* Fear & Hunger
+* The Legend of Zelda: Twilight Princess
